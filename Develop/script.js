@@ -16,7 +16,7 @@ $(function () {
 
 // function that automatically reads the hour of day and determines what's past, present, or future
 $(function () {
-  var hour = dayjs().hour() - 9;
+  var hour = dayjs().hour();
   $('.time-block').each(function () {
     $(this).attr('id');
     var id = $(this).attr('id').split('-')[1];
