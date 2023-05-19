@@ -11,6 +11,6 @@ In this project, I built a Javascript quiz that incoporated a countdown timer wh
 
 ## Link to Project 
 
-Github: https://github.com/cameronfrench/code-quiz
+Github: https://github.com/cameronfrench/work-day-scheduler
 
-Live Link: https://cameronfrench.github.io/code-quiz/
+Live Link: https://cameronfrench.github.io/work-day-scheduler/
